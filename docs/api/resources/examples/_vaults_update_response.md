@@ -4,14 +4,14 @@
 
 ```json
 {
-  "created_at": "2025-06-10T10:10:48Z",
-  "created_by": "usr_2yJQVTxrDKuERXvnUxYIyX8PH0W",
+  "created_at": "2025-07-02T10:05:37Z",
+  "created_by": "usr_2zJYaoqEbzvDgXeML7UPJYfzqlI",
   "description": "Production Vault",
-  "id": "vault_2yJQZ8zjRr94QC6bg5bvvLIBJ0x",
-  "last_updated_by": "usr_2yJQVTxrDKuERXvnUxYIyX8PH0W",
+  "id": "vault_2zJYeOHfRUmx23JXT9Cja7r5QrB",
+  "last_updated_by": "usr_2zJYaoqEbzvDgXeML7UPJYfzqlI",
   "metadata": "{\"environment\": \"production\"}",
   "name": "prod-vault",
-  "updated_at": "2025-06-10T10:10:48Z",
-  "uri": "https://api.ngrok.com/vaults/vault_2yJQZ8zjRr94QC6bg5bvvLIBJ0x"
+  "updated_at": "2025-07-02T10:05:37Z",
+  "uri": "https://api.ngrok.com/vaults/vault_2zJYeOHfRUmx23JXT9Cja7r5QrB"
 }
 ```
